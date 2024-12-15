@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.animation import FuncAnimation
 
+# Fabrício Tosta - Mechanical Engineering - UFBA
+
 # -------------------------------
 # Constantes do sistema
 # -------------------------------
